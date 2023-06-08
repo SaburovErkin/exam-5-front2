@@ -1,0 +1,25 @@
+.homeTopNestedMenuWrapper {
+    border-bottom: 1px solid #D5D5D5;
+}
+
+.homeTopNestedMenu {
+    align-items: flex-start;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 30px;
+    color: #9B9B9B;
+    text-decoration: none;
+    margin-right: 77px;
+}
+
+.homeTopNestedMenu:hover {
+    color: #4E72CA;
+    border-bottom: 2px solid #4E72CA;
+}
+
+.homeNoContainer {
+    background: rgba(182, 202, 251, 0.159986);
+    box-shadow: inset 0px 21px 13px rgba(182, 202, 251, 0.225402);
+}

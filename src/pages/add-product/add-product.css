@@ -1,0 +1,114 @@
+.productStyle {
+    display: flex;
+    align-items: flex-end;
+    gap: 30px;
+    
+}
+
+.productStyleBtn {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    margin-top: 50px;
+    margin-left: 130px;
+    
+}
+
+.productStyleCheck {
+    display: flex;
+    align-items: center;
+}
+
+.addProductBtn {
+    width: 384px;
+    height: 64px;
+    background-color: #19D476;
+    border: none;
+    border-radius: 10px;
+    margin-bottom: 112px;
+}
+
+.linkText {
+    color: #4E72CA;
+    text-decoration: underline;
+    margin-left: 67px;
+    margin-bottom: 112px;
+}
+
+.bradius {
+    border: none;
+    border-bottom: 1.5px solid rgba(0, 0, 0, 0.4);
+    padding: 0;
+    margin: 0;
+    margin-right: 130px;
+}
+
+.file {
+    display: none;
+}
+
+.fileWrapper {
+    gap: 38px;
+    width: 688px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    justify-content: space-between;
+}
+
+.productWrapper {
+    padding-left: 238px;
+}
+
+.prContact {
+    display: flex;
+    flex-direction: column;
+    gap: 31px;
+    margin-bottom: 45px;
+}
+
+.prContactText {
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+.prContactInp {
+    width: 310px;
+}
+
+.raySelect {
+    width: 338px;
+    margin-left: 30px;
+}
+
+.regSelect {
+    width: 229px;
+}
+
+.imputTitle {
+    min-width: 75px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+    
+}
+
+.checkTitle {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    color: #000000;
+}
+
+.mainTitle {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 19px;
+    line-height: 23px;
+}

@@ -1,0 +1,214 @@
+.loginInp {
+    border: 1px solid rgba(151, 151, 151, 0.496575);
+    border-radius: 22.5px;
+    max-width: 872px;
+    border-right: none;
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.loginInpBtn {
+    border: none;
+    background-color: #19D476;
+    border-radius: 22px;
+    padding: 14px 18px;
+    color: white;
+}
+
+.loginInpSel {
+    border: none;
+    border-right: 1px solid rgba(151, 151, 151, 0.370273);
+    padding: 13px 18px 13px 30px;
+    border-radius: 22.5px;
+    border-right: none;
+}
+
+.loginInpSer {
+    padding: 12px 189px 13px 25px;
+    border-right: 1px solid rgba(151, 151, 151, 0.370273);
+    border-left: 1px solid rgba(151, 151, 151, 0.370273);
+    border-top: none;
+    border-bottom: none;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+
+}
+
+.loginInpSel2 {
+    padding: 13px 60px 13px 23px;
+    border: none;
+}
+
+.rightImg {
+    width: 654px;
+    height: 821px;
+}
+
+.mainLogin {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 28px;
+}
+
+.left {
+    width: 387px;
+    height: 587px;
+    margin-left: 36px;
+    margin-right: 64px;
+    margin-top: 15px;
+}
+
+.leftInp {
+    border: 1px solid rgba(151, 151, 151, 0.482592);
+    border-radius: 5px;
+    width: 329px;
+    height: 62px;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 10px;
+}
+
+.leftBtn {
+    background-color: #41D481;
+    color: white;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 21px;
+}
+
+.leftInpText {
+    margin: 0;
+    padding: 0;
+    margin-bottom: 3px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 21px;
+    color: #787993;
+}
+
+.leftTextWrapper {
+    width: 386px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.leftText {
+    width: 334px;
+    text-align: center;
+    color: #304FFF;
+    margin: 0;
+    margin-bottom: 15px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 23px;
+}
+
+.leftHeading {
+    text-align: center;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 23px;
+    line-height: 30px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.spanWrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.loginSpan {
+    border: 0.1px solid #979797;
+    width: 140px;
+    height: 0.2px;
+}
+
+.or {
+    padding: 0;
+    margin: 0;
+    padding-left: 13px;
+    padding-right: 13px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    color: #787993;
+}
+
+.createPass {
+    font-size: 16px;
+    line-height: 20px;
+    color: #4E72CA;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+}
+
+.opText {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+}
+
+.leftInpBtn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+    background: #19D476;
+    border-radius: 22px;
+    padding: 0;
+    margin: 0;
+}
+
+.leftInptext_1 {
+    background: #11B463;
+    border-radius: 22px;
+    padding: 9px 16px 5px 14px;
+    font-size: 28px;
+    margin: 0;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.leftInptext_2 {
+    padding-left: 12px;
+    padding-right: 30px;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 19px;
+    color: #FFFFFF;
+}
+
+.loginInpWrapper {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+}

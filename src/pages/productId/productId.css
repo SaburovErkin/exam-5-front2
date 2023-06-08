@@ -1,0 +1,240 @@
+.productIdRoad {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    color: #787993;
+}
+
+.productIdTitle {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 34px;
+    line-height: 41px;
+    color: #414D6A;
+    margin-bottom: 14px;
+}
+
+.productIdImg {
+    width: 85px;
+    height: 85px;
+    margin-bottom: 8px;
+    margin-right: 12px;
+}
+
+.productIdImgMain {
+    width: 404px;
+    height: 466px;
+    margin-right: 31px;
+}
+
+.productIdArticul {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: -5.89155e-05px;
+    color: #414D6A;
+}
+
+.productIdPrice {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 40px;
+    line-height: 49px;
+    letter-spacing: -0.00016833px;
+    color: #444444;
+}
+
+.productIdLoc {
+    font-family: 'Gilroy';
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: -5.89154e-05px;
+    text-decoration-line: underline;
+    color: #4E72CA;
+}
+
+.productIdNumberWrapper {
+    display: flex;
+    align-items: center;
+    background: #65E99F;
+    border-radius: 18.5px;
+    width: 341px;
+    margin-bottom: 7px;
+}
+
+.productIdNumber {
+    margin: 0;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: -6.73319e-05px;
+    color: #000000;
+    padding: 8px 14px 8px 26px;
+}
+
+.productIdNumberText {
+    margin: 0;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    color: #000000;
+    background: #41D481;
+    border-radius: 18.5px;
+    padding: 9px 26px 9px 19px;
+
+}
+
+.productIdAutor {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: -3.17237e-05px;
+    color: #000000;
+}
+
+.productIdAutorName {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: -4.13787e-05px;
+    text-decoration-line: underline;
+    color: #2AAE63;
+}
+
+.productIdBtn {
+    padding: 15px 28px;
+    background: #304FFF;
+    border-radius: 23.5px;
+    font-family: 'Gilroy';
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: -5.89155e-05px;
+    color: #FFFFFF;
+}
+
+.productIdTable {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 10px;
+}
+
+.productIdTableItem {
+    width: 155px;
+    padding: 13px 32px 22px 14px;
+    border: 1px solid rgba(151, 151, 151, 0.191604);
+}
+
+.productIdTableItemBig {
+    margin-bottom: 10px;
+    border-top: 1px solid rgba(151, 151, 151, 0.191604);
+    border-left: 1px solid rgba(151, 151, 151, 0.191604);
+    padding-top: 14px;
+    padding-left: 14px;
+}
+
+.productIdTableSubtitleSpan {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    letter-spacing: -0.00016833px;
+    text-decoration-line: underline;
+    color: #4E72CA;
+    cursor: pointer;
+}
+
+.topB {
+    border-top: none;
+}
+
+.bottomB {
+    border-bottom: none;
+}
+
+.rightB {
+    border-right: none;
+}
+
+.productIdTableHeading {
+    font-family: 'Gilroy';
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: -0.00016833px;
+    color: #444444;
+}
+
+.productIdTableSubtitle {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    letter-spacing: -0.00016833px;
+    color: #444444;
+}
+
+.productIdTableLink {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 22px;
+    letter-spacing: -0.00016833px;
+    text-decoration-line: underline;
+    color: #4E72CA;
+    cursor: pointer;
+}
+
+.productIdFeedbackText {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 25px;
+    letter-spacing: -3.85217e-05px;
+    color: #414D6A;
+}
+
+.productIdFeedbackBtnWrapper {
+    display: flex;
+    width: 361px;
+    margin-top: 19px;
+    justify-content: space-between;
+    margin-bottom: 100px;
+}
+
+.productIdFeedbackWatches {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: -5.89155e-05px;
+    color: #000000;
+}
+
+.productIdFeedbackReport {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    letter-spacing: -5.89155e-05px;
+    color: #D0021B;
+    cursor: pointer;
+}

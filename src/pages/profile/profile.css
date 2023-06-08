@@ -1,0 +1,141 @@
+.PrBottomStyle {
+    background-color: #fff;
+}
+
+.prBottomStyle {
+    background-color: #fff;
+    padding-bottom: 10px;
+}
+
+.sumPlus {
+    margin: 0;
+    padding: 0;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    background: #41D481;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 14px;
+}
+
+.helloYou {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 21px;
+    text-align: center;
+    color: #414D6A;
+}
+
+.yourSum {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 21px;
+    text-align: center;
+    color: #304FFF;
+}
+
+.sumWrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #41D481;
+    border-radius: 100px 20px 20px 100px;
+}
+
+.sumWrapperB {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #304FFF;
+    border-radius: 100px 20px 20px 100px;
+}
+
+.sumText {
+    margin: 0;
+    padding: 0;
+    padding: 8px 18px 10px 0;
+}
+
+.profileMainMenu {
+    gap: 82px;
+    align-items: center;
+    justify-content: start;
+}
+
+.mainMenuText {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 21px;
+    text-align: center;
+    color: #414D6A;
+}
+
+.mainMenuText:hover {
+    color: #304FFF
+}
+
+.underMenuText {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000000;
+}
+
+.obText {
+    margin: 0;
+    padding: 0;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 21px;
+    color: #414D6A;
+}
+
+.obText2 {
+    margin: 0;
+    padding: 0;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    color: #414D6A;
+}
+
+.statistikProf {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    color: #414D6A;
+}
+
+.statistikProf:hover {
+    color: #304FFF;
+}
+
+.statistikProfWrap {
+    border-top: 1px solid rgba(151, 151, 151, 0.246886);
+}

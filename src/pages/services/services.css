@@ -1,0 +1,52 @@
+.serviceList {
+    display: flex;
+    list-style-type: none;
+    width: 1140px;
+    justify-content: space-between;
+    padding: 0;
+
+}
+
+.searvicesImg {
+    padding: 10px;
+    border-radius: 20px;
+    width: 52px;
+    height: 52px;
+}
+
+#img1 {
+    background: #B6CAFB;
+}
+
+#img2 {
+    background: #979797;
+}
+
+#img3 {
+    background: #FF9E83;
+}
+
+#img4 {
+    background: #F7E233;
+}
+
+#img5 {
+    background: #F6DAC2;
+}
+
+#img6 {
+    background: #B4E2E1;
+}
+
+#img7 {
+    background: #B6CAFB;
+}
+
+#img8 {
+    background: #F6DAC2;
+}
+
+#img9 {
+    background: #FF9E83;
+}
+

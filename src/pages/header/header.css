@@ -1,0 +1,68 @@
+.blueLineReg {
+    display: block;
+    width: 2px;
+    height: 21px;
+    background-color: #4E72CA;
+}
+
+.blackLineReg {
+    display: block;
+    width: 1.5px;
+    height: 17px;
+    background-color: #000;
+}
+
+.headerText {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 17px;
+}
+
+.headerLinkText {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 18px;
+    text-decoration: none;
+    color: #000;
+}
+
+.headerLink {
+    text-decoration: none;
+}
+
+.headerLang {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    color: #4A4A4A;
+}
+
+.headerReg {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 21px;
+    color: #4E72CA;
+}
+
+.headerRegLink {
+    text-decoration: none;
+}
+
+.profRegLink {
+    text-decoration: none;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 21px;
+    text-align: center;
+    color: #787993;
+}
